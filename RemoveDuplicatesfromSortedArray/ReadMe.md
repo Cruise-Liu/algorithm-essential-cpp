@@ -1,4 +1,4 @@
-#Remove Duplicates from Sorted Array
+# Remove Duplicates from Sorted Array
 描述
 Given a sorted array, remove the duplicates in place such that each element appear only once and return
 the new length.
