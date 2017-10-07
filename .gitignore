@@ -1,11 +1,14 @@
 # Prerequisites
 *.d
+*.log
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+*.idb
+*.tlog
 
 # Precompiled Headers
 *.gch
@@ -30,3 +33,5 @@
 *.exe
 *.out
 *.app
+*.ilk
+*.pdb
